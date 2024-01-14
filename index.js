@@ -7,3 +7,5 @@ console.log("dkfljsd");
 // b4
 
 // b5
+
+console.log("test");
